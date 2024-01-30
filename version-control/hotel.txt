@@ -1,5 +1,11 @@
 fraser suites
+<<<<<<< HEAD
 four palms
 
 wells carlton
 sv chrome
+=======
+four palms 
+
+hello, making changes
+>>>>>>> newnew
