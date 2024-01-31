@@ -1,1 +1,2 @@
 Some text added by feature branch
+Some text added by bug branch
