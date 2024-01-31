@@ -1,4 +1,4 @@
 Some text added by feature branch
 Some text added by bug branch
 
-some text added by main
+feature branch editing same text added by main
