@@ -9,3 +9,5 @@ four palms
 
 hello, making changes
 >>>>>>> newnew
+
+shearton hotel
