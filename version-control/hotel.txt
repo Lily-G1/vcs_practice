@@ -4,3 +4,5 @@ Some text added by bug branch
 
 feature branch editing same text added by main
 bug branch editing some text added by main
+
+adding text by main
